@@ -1,9 +1,9 @@
 # Bikesharing
-### Deliverable 1
 #### In order to convince investors that the bikesharing program is worth the investment, a complete bike trip analyis was made to provide to stakeholders that are interested in investing.
 ## Results
-### Deliverable 2
+### Deliverable 1
 #### In order to begin the bike trip analysis for investors, the data in "tripduration" was converted to a datetime datatype with the use of VS code and Jupyter Notebook as attached above. This conversion was necessary in order to provide the correct information and format for time and bike trips for the investors.
+### Deliverable 2
 #### After the conversion was complete, visualizations were created. First, a visual on checkout times for users was created based off which times the bikes are checked out.
 #### <img width="1354" alt="Screen Shot 2022-05-29 at 9 03 30 AM" src="https://user-images.githubusercontent.com/99656224/170883859-37d78b17-5f57-4296-bc11-19d60c95ae96.png">
 #### A visual for the checkout times per gender was also created to give representation for the types of people who are checking out bikes.
