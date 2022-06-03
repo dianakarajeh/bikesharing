@@ -20,3 +20,6 @@
 #### <img width="1318" alt="Screen Shot 2022-05-29 at 1 55 25 PM" src="https://user-images.githubusercontent.com/99656224/170884602-47055780-8a0c-4329-951d-bbaaf4fe8941.png">
 ## Summary
 #### Overall, after all the analyses and visualizations of bike trips in Des Moines was done, it has been made clear that a bikesharing program would be more than beneficial for investors and stakeholders 
+## Link to Dashboards
+### https://public.tableau.com/app/profile/diana.karajeh/viz/DesMoinesBikesharing1/Dashboard1?publish=yes
+### https://public.tableau.com/app/profile/diana.karajeh/viz/DesMoinesBikesharing2/Dashboard2?publish=yes
